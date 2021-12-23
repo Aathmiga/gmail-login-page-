@@ -1,0 +1,153 @@
+*{
+    margin:0;
+    padding:0;
+}
+.content{
+    height:515px;
+    border: 2px solid rgb(226, 226, 226);
+    border-radius: 5px;
+    margin-left: 34%;
+    margin-right: 34%;
+    margin-top: 10%;
+    border-radius: 10px;
+    border-width: 1px;
+    }
+#image{
+    padding-left: 36%;
+    height:4%;
+    width:6%;
+
+}
+#title{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    }
+#img{
+    height:40px;
+    width:140px;
+    padding-top: 50px;
+    padding-bottom: 15px;
+    }
+#title2{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 45px;
+}
+#name{
+    margin-left: 33px;
+    margin-top: 30px;
+    padding-left: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    min-height: 20px;
+    border:1px solid  rgb(226, 226, 226);
+    border-radius: 5px;
+    font-size: 17px;
+    color: rgb(116, 116, 116);
+     }
+.count{
+   padding-left: 490px;
+   display: block;
+}
+#country{
+    border:1px solid white;
+}
+#forget{
+    color:rgb(105, 149, 230);
+    font-size: 14px;
+    padding-left: 35px;
+    padding-top: 10px;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+#line{
+    font-size: 15px;
+    font-weight: lighter;
+    padding-left: 35px;
+    padding-top: 45px;
+    color: rgb(109, 109, 109);
+    font-family: 'Noto Sans Myanmar UI',arial,sans-serif;}
+#learn{
+    color:rgb(105, 149, 230);
+    font-size: 14px;
+    padding-left: 35px;
+    padding-top: 3px;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+.button1{
+    color:rgb(105, 149, 230);
+    font-size: 14px;
+    font-weight: bold;
+    padding-left: 45px;
+    padding-top: 50px;
+    background-color:white;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+} .button1:hover{
+    background-color: rgb(248, 248, 248);
+}
+.button {
+
+    border: none;
+    color:rgb(105, 149, 230);
+    padding-left: 22px;
+    padding-top: 10px;
+    padding-right: 22px;
+    padding-bottom: 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  .create{
+      display: flex;
+      padding-top: 40px;
+    padding-left: 12px;
+    
+}
+      .button2 {
+      background-color:rgb(44, 116, 252);
+      float:right;
+      margin-left: 155px;
+      color: white;
+      }
+    .button2:hover{
+        background-color: rgb(44, 105, 196);
+        } 
+        .about {
+            list-style-type: none;
+            margin: 0;
+            padding-left: 1px;
+        
+            overflow: hidden;
+            
+          }
+          
+          li {
+            float: left;
+          }
+          
+          li a {
+            display: block;
+            color: rgb(109, 109, 109);
+            text-align: center;
+            padding-right:2px;
+            padding-left: 30px;
+            text-decoration: none;
+            font-size:13px;
+            font-family: 'Noto Sans Myanmar UI',arial,sans-serif;
+          }
+          li form{
+              padding-right: 100px;
+            
+          }
+          .count{
+              display: flex;
+          }
+          
+
+
+          
